@@ -2,6 +2,8 @@
 auto dingding
 
 
+# 发送日报或周报
+
 ## POST https://landray.dingtalkapps.com/alid/reportpc/client/create
 
 test demo: http://coolaf.com/tool/gp
