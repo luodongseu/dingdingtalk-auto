@@ -1,0 +1,2 @@
+# dingdingtalk-auto
+auto dingding
